@@ -1,8 +1,3 @@
-/* <div>
-<p id="count"></p>
-<p id="info"></p>
-</div> */
-
 const div = document.createElement('div');
 const p1 = document.createElement('p');
 p1.id = 'count';
